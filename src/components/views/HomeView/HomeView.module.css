@@ -1,0 +1,31 @@
+.bgImage {
+  background-image: url('../../../images/phonebook.png');
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+}
+
+.textBox {
+  background-color: rgba(255, 255, 255);
+  margin-bottom: 120px;
+  height: 150px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 30px;
+}
+
+.greetingText {
+  font-size: xx-large;
+  color: white;
+  margin-bottom: 140px;
+}
+
+.greetingTextLoggedIn {
+  font-size: xx-large;
+  color: #646a7a;
+}

@@ -1,0 +1,11 @@
+.label {
+  display: flex;
+  margin-top: 10px;
+}
+
+.input {
+  margin-left: 20px;
+  border-radius: 3px;
+  border: 1px solid white;
+  background-color: white;
+}
